@@ -3,9 +3,13 @@ Chat colors for fishing results changed to provide better visibility. Moveable t
 ((Unload addon to save text window position and create a settings folder and file within the addon folder. Text Window font can be edited here.))
 
 Use:  -Create a folder within your ashita save location called   'fishaid'
+
   -copy the appropriate file for your version of Ashita  (fishaidv3.lua  for V3  /// fishaidv4.lua for V4)  into the newly created folder.
+  
   -Rename the file and remove either   'v3'   or   'v4'   from the end of the file name.
+  
   -Optional:  Within the Ashita main folder open the Scripts folder then open Default.txt.
+  
     -Within the section titled " # Load Common Addons"   add the following     /addon load fishaid    
     -Save Default.txt
  
